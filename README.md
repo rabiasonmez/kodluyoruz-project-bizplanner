@@ -6,7 +6,7 @@
 
 ### Design 
 
-[Figma Design Address](https://kodluyoruz-project-bizplanner.netlify.app/images/theme.jpg)
+[Design Address](https://kodluyoruz-project-bizplanner.netlify.app/images/theme.jpg)
 
 [Demo](https://kodluyoruz-project-bizplanner.netlify.app/)
 
