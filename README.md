@@ -1,7 +1,7 @@
 
-# "Twinkle" Website Template
+# "Biz Planner" Website Template
 
-"Twinkle" is a one page design made by [Rakib Kowshar](https://dribbble.com/rakibkowshar).
+"Biz Planner" is a one page design made by [Rakib Kowshar](https://dribbble.com/rakibkowshar).
 
 
 ### Design 
